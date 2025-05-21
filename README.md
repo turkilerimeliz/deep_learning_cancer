@@ -103,9 +103,9 @@ Accurate and early diagnosis of lung and colon cancers is critical for treatment
 ---
 
 ## 📁 Repository Structure
-📄 Histopathological Image Classification for Lung and Colon Cancer Using Deep Learning.pdf
-📓 histopathological_image_classification.ipynb
-📄 README.md
+📄 Histopathological Image Classification for Lung and Colon Cancer Using Deep Learning.pdf  
+📓 histopathological_image_classification.ipynb  
+📄 README.md  
 
 ---
 
